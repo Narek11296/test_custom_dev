@@ -1,0 +1,25 @@
+# Description of what the task does
+
+description: "This task p3rocesses incoming data streams."
+
+# Memory in MB.
+# Allowed values: 128, 256, 512, 768, 1024, 1536, 2048, 3008
+
+memory: 256
+
+# Python Interpreter version
+# Allowed values: "3.10", "3.11", "3.12", "3.13"
+
+interpreter: "3.11"
+
+# Execution time limit in seconds (300 to 10800)
+
+time_limit: 6
+
+# Concurrency limit (1 to 128)
+
+concurrency: 1
+
+# List of Python libraries to install
+requirements:
+
