@@ -20,4 +20,6 @@ time_limit: 8
 
 concurrency: 1
 
+# List of Python libraries to install
+requirements: []
 
