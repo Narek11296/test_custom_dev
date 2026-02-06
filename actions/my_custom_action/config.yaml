@@ -14,12 +14,10 @@ interpreter: "3.11"
 
 # Execution time limit in seconds (300 to 10800)
 
-time_limit: 2
+time_limit: 8
 
 # Concurrency limit (1 to 128)
 
 concurrency: 1
 
-# List of Python libraries to install
-requirements:
 
