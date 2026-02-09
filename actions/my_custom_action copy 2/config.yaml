@@ -10,7 +10,7 @@ memory: 252
 # Python Interpreter version
 # Allowed values: "3.10", "3.11", "3.12", "3.13"
 
-interpreter: "3.7"
+interpreter: "3.10"
 
 # Execution time limit in seconds (300 to 10800)
 
