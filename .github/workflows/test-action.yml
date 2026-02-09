@@ -12,8 +12,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run my actions
-        uses: superannotateai/custom-action-deployment@0.0.14
+        uses: superannotateai/custom-action-deployment@0.0.1
         with:
-          who-to-greet: "Tester"
           sa_token: ${{ secrets.SA_TOKEN }}
           sa_url: ${{ secrets.SA_URL }}
