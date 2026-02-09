@@ -5,7 +5,7 @@ description: "This task p3rocesses incoming data streams."
 # Memory in MB.
 # Allowed values: 128, 256, 512, 768, 1024, 1536, 2048, 3008
 
-memory: 256
+memory: 252
 
 # Python Interpreter version
 # Allowed values: "3.10", "3.11", "3.12", "3.13"
