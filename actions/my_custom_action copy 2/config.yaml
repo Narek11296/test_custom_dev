@@ -1,11 +1,11 @@
 # Description of what the task does
 
-description: "This task p3rocesses incoming data streams."
+description: "This task processes incoming data streams."
 
 # Memory in MB.
 # Allowed values: 128, 256, 512, 768, 1024, 1536, 2048, 3008
 
-memory: 252
+memory: 512
 
 # Python Interpreter version
 # Allowed values: "3.10", "3.11", "3.12", "3.13"
