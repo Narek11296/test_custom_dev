@@ -19,9 +19,3 @@ time_limit: 5
 # Concurrency limit (1 to 128)
 
 concurrency: 1
-
-# List of Python libraries to install
-requirements:
-  - "requests>=2.0.0"
-  - "pandas"
-  - "numpy"
